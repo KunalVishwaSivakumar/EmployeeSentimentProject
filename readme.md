@@ -72,5 +72,5 @@ All CSVs are inside the `outputs/` folder and all EDA visuals are inside the `vi
 ## 👤 Author
 
 **Kunal Vishwa Sivakumar**  
-M.S. Applied Data Analytics, Boston University  
+Boston University  
 
